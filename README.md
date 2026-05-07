@@ -37,7 +37,7 @@
 
 ```ts
 const bheesham = {
-  role         : "Full Stack Developer | Flutter Developer | AI & Data Science Enthusiast",
+  role         : "Full Stack Developer | Flutter Developer | AI &amp; Data Science Enthusiast",
   location     : "Islamkot, Sindh, Pakistan 🇵🇰",
   experience   : "4+ years (Freelance)",
   education    : "BSCS — Sukkur IBA University  |  SEEF Fully Funded Scholar",
@@ -46,7 +46,7 @@ const bheesham = {
   databases    : ["MySQL", "MongoDB", "Firebase Firestore"],
   devops       : ["Git", "GitHub", "REST APIs", "JWT Auth"],
   languages    : ["English (Professional)", "Urdu (Native)", "Sindhi (Native)"],
-  status       : "Available for remote & freelance work 🚀",
+  status       : "Available for remote &amp; freelance work 🚀",
 };
 ```
 
@@ -63,7 +63,7 @@ const bheesham = {
 > ### 🧑‍💻 &nbsp; Freelance Software Developer
 > **Self-Employed** &nbsp;·&nbsp; 🌐 Remote &nbsp;·&nbsp; `2022 – Present`
 >
-> *End-to-end web, mobile & AI-powered software development*
+> *End-to-end web, mobile &amp; AI-powered software development*
 >
 > `ReactJS` &nbsp;`Node.js` &nbsp;`Flutter` &nbsp;`Firebase` &nbsp;`MongoDB` &nbsp;`MySQL` &nbsp;`REST APIs` &nbsp;`Git/GitHub`
 >
@@ -136,7 +136,7 @@ const bheesham = {
 
 <br/>
 
-**AI & Machine Learning**
+**AI &amp; Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 &nbsp;
@@ -150,19 +150,19 @@ const bheesham = {
 
 <br/><br/>
 
-**Frontend & Mobile**
+**Frontend &amp; Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,flutter,js,dart,ts,html,css,bootstrap&perline=8" />
 
 <br/><br/>
 
-**Backend & Databases**
+**Backend &amp; Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mongodb,mysql,java,cpp&perline=8" />
 
 <br/><br/>
 
-**DevOps & Tools**
+**DevOps &amp; Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&perline=5" />
 
