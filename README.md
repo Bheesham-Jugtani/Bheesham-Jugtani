@@ -22,8 +22,10 @@ I enjoy taking ideas from concept to implementation, experimenting with models, 
 - 🌱 Improving my skills through practical projects and continuous learning.
 - 🤝 Open to collaborating on meaningful software and AI projects.
 🧰 Technical Skills
+
 Programming Languages
-AI, Machine Learning & Computer Vision
+
+<p>AI, Machine Learning & Computer Vision</p>
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" alt="Python, JavaScript, TypeScript, Java and C++" />
 </p>
