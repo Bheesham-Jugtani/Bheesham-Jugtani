@@ -83,7 +83,9 @@ Sukkur IBA University · 2022–2026
 - Selected among the top 6,000 nationwide from more than 80,000 applicants for a Pakistan Prime Minister's Youth Programme AI initiative.
 - Selected for Flutter Bootcamp Phase II – 2024.
 - Member of the Pakistan Freelancers Association (PAFLA).
+  
 📊 GitHub Statistics
+
 <div align="center">
   <a href="https://github.com/Bheesham-Jugtani">
     <img
