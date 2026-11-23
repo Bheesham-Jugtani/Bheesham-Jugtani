@@ -21,6 +21,7 @@ I enjoy taking ideas from concept to implementation, experimenting with models, 
 - 🌐 Developing responsive web applications and mobile experiences.
 - 🌱 Improving my skills through practical projects and continuous learning.
 - 🤝 Open to collaborating on meaningful software and AI projects.
+  
 🧰 Technical Skills
 
 Programming Languages
