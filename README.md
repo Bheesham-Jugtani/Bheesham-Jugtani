@@ -1,218 +1,113 @@
-<!-- ═══════════════════════  HERO  ═══════════════════════ -->
-<div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2B,50:063B65,100:00B8D9&text=BHEESHAM%20KUMAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%2FML%20%7C%20COMPUTER%20VISION%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=60&descSize=15" width="100%" alt="Bheesham Kumar profile banner"/>`{=html}
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Bheesham%20Kumar&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20%7C%20Flutter%20%7C%20AI%20%26%20Data%20Science&descSize=20&descAlignY=65&descColor=ffffffcc&animation=fadeIn" />
+### Building intelligent solutions. Turning ideas into impact.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bheeshamjugtani)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bheesham-Jugtani)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&width=640&lines=Building+scalable+web+%26+mobile+applications;ReactJS+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+Firebase+%C2%B7+Python;AI+%7C+Computer+Vision+%7C+Machine+Learning;4%2B+years+in+Freelance+Software+Development;SEEF+Scholar+%40+Sukkur+IBA+University)](https://linkedin.com/in/bheeshamjugtani)
+📍 Karachi, Pakistan
+:::👨‍💻 About Me
+I'm a Computer Science graduate from Sukkur IBA University,
+interested in building practical software and AI-powered solutions. My
+work and learning span Machine Learning, Computer Vision, full-stack
+web development, and mobile application development.
 
-<br/>
+I enjoy taking a problem from an initial idea through implementation,
+experimentation, and refinement. I'm especially interested in applying
+AI and software engineering to real-world challenges.
+- 🔭 Working on AI, computer vision, and software development
+  projects.
+- 🤖 Exploring deep learning, object detection, and model
+  optimization.
+- 🌐 Building responsive web applications and mobile experiences.
+- 🌱 Continuously learning and improving through hands-on projects.
+- 🤝 Open to collaboration on meaningful software and AI projects.
+🧰 Technical Skills
+::: {align="center"}
+**Programming** `<br/>`{=html}
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bheeshamjugtani-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bheeshamjugtani)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-bheeshamjugtani%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bheeshamjugtani@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92_335_3173739-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923353173739)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-bheeshamjugtani-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/bheeshamjugtani)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bheeshamjugtani&style=flat-square&color=0ea5e9&label=Profile+Views)
-&nbsp;&nbsp;
-![Experience](https://img.shields.io/badge/Experience-4%2B+Years-0ea5e9?style=flat-square)
-&nbsp;&nbsp;
-![Domains](https://img.shields.io/badge/Domains-Web+·+Mobile+·+AI-0ea5e9?style=flat-square)
-&nbsp;&nbsp;
-![Open To Work](https://img.shields.io/badge/Status-Open+to+Opportunities-22c55e?style=flat-square)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
-
-## 👤 &nbsp; About
-
-```ts
-const bheesham = {
-  role         : "Full Stack Developer | Flutter Developer | AI & Data Science Enthusiast",
-  location     : "Islamkot, Sindh, Pakistan 🇵🇰",
-  experience   : "4+ years (Freelance)",
-  domains      : ["Web Development", "Mobile Apps", "AI / ML"],
-  ai_skills    : ["TensorFlow", "Computer Vision", "Scikit-learn", "Machine Learning"],
-  core_stack   : ["ReactJS", "Flutter", "Node.js", "Firebase", "Python"],
-  databases    : ["MySQL", "MongoDB", "Firebase Firestore"],
-  education    : "BSCS — Sukkur IBA University  |  SEEF Fully Funded Scholar",
-  status       : "Available for remote & freelance work  🚀",
-};
-```
-
-<br/>
-
----
-
-<!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
-
-## 💼 &nbsp; Experience
-
-<br/>
-
-> ### 🧑‍💻 &nbsp; Freelance Software Developer
-> **Self-Employed** &nbsp;·&nbsp; 🌐 Remote &nbsp;·&nbsp; `2022 – Present`
->
-> *End-to-end web, mobile & AI-powered software development*
->
-> `ReactJS` &nbsp;`Node.js` &nbsp;`Flutter` &nbsp;`Firebase` &nbsp;`MongoDB` &nbsp;`MySQL` &nbsp;`REST APIs` &nbsp;`Git/GitHub`
->
-> - Developed responsive **web and mobile applications** using ReactJS, Flutter, Firebase, and Node.js for clients across diverse industries
-> - Built **RESTful APIs**, authentication systems, and database-driven backends with a focus on scalability and performance
-> - Designed modern, responsive **UI/UX interfaces** and integrated cloud services, third-party APIs, and payment gateways
-> - Managed version control and collaborative workflows using **Git/GitHub** across multiple concurrent projects
-
-<br/>
-
----
-
-<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
-
-## 🛠 &nbsp; Tech Stack
-
-<div align="center">
-
-<br/>
-
-**AI & Machine Learning**
-
+**AI / Machine Learning / Computer Vision** `<br/>`{=html}
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-&nbsp;
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-&nbsp;
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0ea5e9?style=flat-square)
-&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit
+Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
 
-<br/><br/>
+**Web & Mobile** `<br/>`{=html}
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind
+CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Frontend & Mobile**
+**Databases & Tools** `<br/>`{=html}
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google
+Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+:::🚀 Featured Projects
+🛣️ PathNet --- Smart Pothole Detection & Alert Ecosystem
+A road-safety project combining computer vision, IoT sensor data, GPS,
+and a mobile application to support road-hazard detection and reporting.
+- YOLOv8-based pothole detection and data collection.
+- MPU6050 vibration and motion sensor integration.
+- GPS-based hazard location and mapping.
+- Mobile application for reporting and viewing road conditions.
+Focus: Python · YOLOv8 · IoT · MPU6050 · GPS · Mobile Development
+🚦 Traffic Sign Recognition
+A deep-learning image-classification project using the German Traffic
+Sign Recognition Benchmark (GTSRB).
+- Classifies 43 traffic-sign categories.
+- Uses a custom Convolutional Neural Network.
+- Includes image preprocessing, augmentation, and model optimization.
+- Achieved 98.92% test accuracy in the reported experiment.
+Focus: Python · TensorFlow · Keras · CNN · Computer Vision
+🌐 Full-Stack & Mobile Applications
+I also build web and mobile applications, working across user
+interfaces, backend logic, APIs, and database integration.
 
-<img src="https://skillicons.dev/icons?i=react,flutter,js,dart,html,css,bootstrap&perline=7" />
+Focus: React.js · Next.js · Node.js · JavaScript · TypeScript ·
+Flutter · Firebase · SQL
+Repository links can be added to each project title once the
+corresponding public repositories are selected.
 
-<br/><br/>
+🎓 Education
+BS Computer Science
+Sukkur IBA University · 2022--2026
+- Four-year fully funded SEEF Scholarship.
+- Relevant areas: Data Structures & Algorithms, Database Systems,
+  Artificial Intelligence, Information Security, Web Development,
+  Mobile App Development, and Data Science.
+🏅 Certifications & Achievements
+- Google AI Essentials Specialization --- Coursera.
+- Selected among the Top 6,000 nationwide from more than 80,000
+  applicants for a Pakistan Prime Minister's Youth Programme AI
+  initiative.
+- Selected for Flutter Bootcamp Phase II -- 2024.
+- Member of the Pakistan Freelancers Association (PAFLA).
+📈 GitHub Overview
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bheesham-Jugtani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bheesham-Jugtani&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>`{=html}
 
-**Backend & Databases**
+`<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bheesham-Jugtani&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>`{=html}
+:::🤝 Let's Connect
+I'm interested in connecting with developers, collaborating on practical
+projects, and exploring opportunities in AI/ML, computer vision, and
+software development.
+::: {align="center"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheesham_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bheeshamjugtani)
+[![GitHub](https://img.shields.io/badge/GitHub-Bheesham--Jugtani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bheesham-Jugtani)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mongodb,mysql,java,cpp&perline=8" />
-
-<br/><br/>
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&perline=5" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════  STATS  ═══════════════════════ -->
-
-## 📊 &nbsp; GitHub Stats
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bheeshamjugtani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=38bdf8&icon_color=0ea5e9&text_color=6b7280&bg_color=00000000" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheeshamjugtani&layout=compact&langs_count=7&hide_border=true&title_color=38bdf8&text_color=6b7280&bg_color=00000000" />
-
-<br/><br/>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=bheeshamjugtani&hide_border=true&background=00000000&stroke=38bdf8&ring=0ea5e9&fire=f97316&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=0ea5e9&sideLabels=6b7280&dates=6b7280" />
-
-<br/><br/>
-
-<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=bheeshamjugtani&bg_color=00000000&color=38bdf8&line=0ea5e9&point=38bdf8&area=true&hide_border=true" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════  TROPHIES  ═══════════════════════ -->
-
-## 🏆 &nbsp; Trophies
-
-<div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=bheeshamjugtani&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════  EDUCATION  ═══════════════════════ -->
-
-## 🎓 &nbsp; Education
-
-<br/>
-
-<div align="center">
-
-| | |
-|:---|:---|
-| **Institution** | Sukkur IBA University — Sukkur, Pakistan |
-| **Degree** | Bachelor of Science in Computer Science (BSCS) |
-| **Period** | 2022 – 2026 |
-| **Scholarship** | 4-Year Fully Funded SEEF Scholarship |
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
-
-## 🤝 &nbsp; Let's Connect
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bheeshamjugtani)
-&ensp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923353173739)
-&ensp;
-[![Email](https://img.shields.io/badge/Send_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bheeshamjugtani@gmail.com)
-
-<br/>
-
-![Timezone](https://img.shields.io/badge/Timezone-PKT_(UTC%2B5)-0ea5e9?style=flat-square)
-&nbsp;&nbsp;
-![Response Time](https://img.shields.io/badge/Response_Time-Under_24h-22c55e?style=flat-square)
-&nbsp;&nbsp;
-![Availability](https://img.shields.io/badge/Available_For-Remote_%26_Freelance-0ea5e9?style=flat-square)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<sub>Crafted with passion · Powered by curiosity · Always building</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" />
-
-</div>
+**Thanks for visiting my profile!**
+:::
