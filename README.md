@@ -103,13 +103,13 @@ Sukkur IBA University · 2022–2026
       alt="GitHub contribution streak"
     />
   </a>
-</div>🤝 Let's Connect
+</div>🤝 <p>Let's Connect
 I'm interested in connecting with developers, collaborating on practical projects, and exploring opportunities in AI/ML, computer vision, and software development.
 <div align="center"><a href="https://linkedin.com/in/bheeshamjugtani">
   <img src="https://img.shields.io/badge/LinkedIn-Bheesham_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Bheesham Kumar" />
 </a>
 <a href="https://github.com/Bheesham-Jugtani">
   <img src="https://img.shields.io/badge/GitHub-Bheesham--Jugtani-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — Bheesham Jugtani" />
-</a>
-Thanks for visiting my profile!
+</a> </p>
+<p>Thanks for visiting my profile!</p>
 </div>
