@@ -3,13 +3,15 @@
   width="100%"
   alt="Bheesham Kumar — AI/ML, Computer Vision and Full-Stack Development"
 />
-AI/ML Engineer · Computer Vision Developer · Full-Stack Developer
-<a href="https://linkedin.com/in/bheeshamjugtani">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="https://github.com/Bheesham-Jugtani">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-</a>📍 Karachi, Pakistan
+<p><strong>AI/ML Engineer · Computer Vision Developer · Full-Stack Developer</strong></p><p>
+  <a href="https://linkedin.com/in/bheeshamjugtani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Bheesham-Jugtani">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p><p>📍 Karachi, Pakistan</p></div>
 </div>👨‍💻 About Me
 I'm a Computer Science graduate from Sukkur IBA University, passionate about building practical software and AI-based solutions. My interests include Machine Learning, Computer Vision, Full-Stack Web Development, and Mobile Application Development.
 
