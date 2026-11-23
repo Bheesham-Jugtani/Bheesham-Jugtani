@@ -23,13 +23,16 @@ I enjoy taking ideas from concept to implementation, experimenting with models, 
 - 🤝 Open to collaborating on meaningful software and AI projects.
 🧰 Technical Skills
 Programming Languages
+AI, Machine Learning & Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" alt="Python, JavaScript, TypeScript, Java and C++" />
-</p>AI, Machine Learning & Computer Vision
+</p>
+<p>
+  <code>Keras</code> · <code>YOLOv8</code> · <code>Scikit-learn</code> · <code>CNNs</code> · <code>Google Colab</code> · <code>Kaggle</code>
+</p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="TensorFlow and OpenCV" />
-</p><p>
-  <code>Keras</code> · <code>YOLOv8</code> · <code>Scikit-learn</code> · <code>CNNs</code> · <code>Google Colab</code> · <code>Kaggle</code>
 </p>Web & Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,firebase,tailwind" alt="React, Next.js, Node.js, Flutter, Firebase and Tailwind CSS" />
