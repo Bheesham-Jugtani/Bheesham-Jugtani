@@ -74,6 +74,7 @@ BS Computer Science
 Sukkur IBA University · 2022–2026
 - Four-year fully funded Sindh Educational Endowment Fund (SEEF) Scholarship.
 - Relevant coursework: Data Structures & Algorithms, Database Systems, Artificial Intelligence, Information Security, Web Development, Mobile App Development, and Data Science.
+
 🏅 Certifications & Achievements
 - Google AI Essentials Specialization — Coursera.
 - Selected among the top 6,000 nationwide from more than 80,000 applicants for a Pakistan Prime Minister's Youth Programme AI initiative.
